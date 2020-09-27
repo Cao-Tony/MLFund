@@ -4,7 +4,7 @@ TODO
 :---:
 
 Setup 
-- [X] choose a financial API 
+- [ ] choose a financial API 
 - [ ] connect to the API ( test ) 
 - [ ] Set up Python environment 
   - [ ] decide on packages / libraries / etc. 
