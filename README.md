@@ -6,13 +6,13 @@ TODO
 Setup 
 - [ ] choose a financial API 
 - [ ] connect to the API ( test ) 
-- [ ] Set up Python environment 
-  - [ ] decide on packages / libraries / etc. 
+- [X] Set up Python environment 
+  - [X] decide on packages / libraries / etc. 
 - [ ] choose what to trade ( which stock? commodities? currency pairs? etc. ) 
 - [ ] DATA COLLECTION ( ML 1 )  
  
 ML/Model Training
-- [ ] Bring in hisotrical data 
+- [ ] Bring in historical data 
 - [ ] DATA PREPARATION ( ML 2 )
 - [ ] Train Model ( ML 3 ) 
    - [ ] choose an algorithm 
