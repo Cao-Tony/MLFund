@@ -34,3 +34,8 @@ Trading Logic
 Making the Trade
 - [ ] connect to financial API 
 - [ ] place to position order / trade order 
+
+
+#####################################################################################################################
+
+- [ ] FINISH
